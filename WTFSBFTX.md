@@ -61,7 +61,7 @@ bought a superbowl commercial featuring Larry David,
 
 ![image](./assets/larry.png)
 
-and had Tom Brady as one of their biggest marking partners 
+and had Tom Brady as one of their biggest marketing partners.
 
 ![image](./assets/brady.PNG)
 
@@ -77,7 +77,7 @@ To 'remedy' this conflict of interest, SBF relinquished control of Alameda to hi
 
 ![image](./assets/caroline.jpeg)
 
-In addition to living with and being romantically involved with SBF, the CEO of Alameda, Caroline Ellison, has ties to some important people. Her father, Glenn Ellison, is head of economics at MIT which is the department that the current SEC head, Gary Gensler, used to work.
+In addition to living with and being romantically involved with SBF, Alameda CEO Caroline Ellison has ties to some important people. Her father, Glenn Ellison, is head of economics at MIT which is the department that the current SEC head, Gary Gensler, used to work.
 
 ##### Pictured: Glenn Ellison, MIT Economics Dpt Head
 
