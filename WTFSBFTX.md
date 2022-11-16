@@ -194,7 +194,7 @@ Meanwhile, rumors of SBF desperately scrambling to find funding anywhere he coul
 
 ## Binance steps in: a tentative bailout
 
-Binance sees the chaos they've instigated, now ballooning to a full blown bank run with users and businesses alike pulling funds out of FTX. According to a tweet FTX, they've stepped in and offered to potentially purchase FTX; essentially bailing them out. Note the very certain, grateful tone:
+Binance sees the chaos they've instigated, now ballooning to a full blown bank run with users and businesses alike pulling funds out of FTX. According to a tweet from SBF, they've stepped in and offered to potentially purchase FTX; essentially bailing them out. Note the very certain, grateful tone:
 
 ![image](./assets/bailout.PNG)
 
