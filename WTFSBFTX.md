@@ -63,7 +63,7 @@ and had Tom Brady as one of their biggest marking partners
 
 ![image](./assets/brady.PNG)
 
-(Tom and his wife Gazelle invested 70mil of their personal funds into FTX)
+##### (Tom and his wife Gazelle invested 70mil of their personal funds into FTX)
 
 SBF enjoyed such rapid and well known success that he did numerous interviews pushing a popular philosophical doctrine called effective altruism which basically boils down to amassing power and wealth to donate it for good causes. He tirelessly cultivated the image of the 'crypto golden child' who planned to donate his fortune, drove a Toyota Corolla, and even adhered strictly to veganism. It worked; he enjoyed favorable attention from lawmakers, CEOs, investors, and retail demographics alike.
 
