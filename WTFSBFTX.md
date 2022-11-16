@@ -49,7 +49,7 @@ At the center of FTX's success lay its founder and CEO: Sam Bankman-Fried, aka S
 
 SBF was hailed by mainstream media outlets as a wildly successful startup founder. He made the Forbes 400 frontpage as billionaire wunderkind of the newfangled crypto industry,
 
-![image](./assets/forbes.PNG)
+![image](./assets/forbes.png)
 
 bought name rights to the Miami Heat sports stadium (FTX Arena), 
 
