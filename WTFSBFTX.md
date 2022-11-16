@@ -248,7 +248,7 @@ A few individuals indeed were able to pull off this mini-heist and managed to wi
 
 ##### If you're not familiar with the term 'KYC' it stands for 'Know Your Customer' which are an extension of anti-money laundering laws that require exchanges to verify their identities, citizenship, and place of residence.
 
-The follwing day, Nov 12, Bahamian financial authorities at the Securities Commission of The Bahamas tweeted a document contradicting FTX's claim of being directed to allow withdrawals to Bahamians. Turns out, there is no such Bahaman law and that was a falsehood, presumably to allow people close to FTX (remember that FTX is based in the Bahamas) to withdraw their funds.
+The following day, Nov 12, Bahamian financial authorities at the Securities Commission of The Bahamas tweeted a document contradicting FTX's claim of being directed to allow withdrawals to Bahamians. Turns out, there is no such Bahaman law and that was a falsehood, presumably to allow people close to FTX (remember that FTX is based in the Bahamas) to withdraw their funds.
 
 ##### Pictured: The document in question
 ![image](./assets/redhanded.jfif)
