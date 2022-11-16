@@ -11,9 +11,11 @@
  S       X
 ```
 
-I've had a number of people approach me about the events that have transpired over the past week with regard to FTX and the rapid downfall of SBF. There's a lot of media coverage on the story but as someone who watched the entire debacle unfold on-chain in real time, there are numerous absolutely insane events in the story that haven't been adequately told.
+I've had a number of people approach me about the events that have transpired over the past week with regard to FTX and the rapid downfall of Sam Bankman-Fried. There's a lot of media coverage on the story but as someone who watched the entire debacle unfold on-chain in real time, there are numerous absolutely insane events in the story that haven't been adequately told.
 
-If you want a complete picture of the 4 day clusterfuck during which a centralized exchange collapsed to a bank run exposing insolvency, wealthy customers bought illicit Bahamian passports to exploit a 'legal loophole,' and a blackhat hacker vs whitehat official faced off on-chain to claim control over hundreds of millions of dollars worth of digital assets left over from FTX reserves, read on. Yeah, bet you didn't get those juicy details from the Reuters and NYT articles, huh?
+If you want a complete picture of the 4 day clusterfuck during which a centralized exchange collapsed to a bank run exposing insolvency, its wealthiest customers bought illicit Bahamian passports to exploit a 'legal loophole,' and a blackhat hacker faced off on-chain against a whitehat official to claim control over hundreds of millions of dollars worth of digital assets left over from FTX reserves, read on.
+
+Yeah, bet you didn't get those juicy details from the Reuters and NYT articles, huh?
 
 I'll do my best tell the tale of my (sleepless) experience of FTX's fall from grace with as thorough explanation of technical and financial details as I can, so an audience who has never so much as touched a cryptocurrency can easily follow.
 
