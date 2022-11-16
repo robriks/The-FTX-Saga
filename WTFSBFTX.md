@@ -111,7 +111,7 @@ If you're not familiar with how (fungible/non-fungible) tokens can live on top o
 
 ##### (The HuskyCoin tokens I made are for education only. They are free and cannot be speculated on!)
 
-But that's a minor component to the saga so you may come back and learn that another time if you prefer to keep reading. The basics of what you need to understand is this: Ethereum is a programmable blockchain that allows for tokens to be created, sent, received, staked, burned, bought, and sold (among other cool things) on the Ethereum network itself. Examples include stablecoins (pegged to the US dollar) such as $USDC, $USDT, $DAI as well as utility tokens such as $UNI, $LINK. 🤦‍♂️
+But that's a minor component to the saga so you may come back and learn that another time if you prefer to keep reading. The basics of what you need to understand is this: Ethereum is a programmable blockchain that allows for tokens to be created, sent, received, staked, burned, bought, and sold (among other cool things) on the Ethereum network itself. Examples include stablecoins (pegged to the US dollar) such as $USDC, $USDT, $DAI as well as utility tokens such as $UNI, $LINK.
 
 ## The FTT token
 
