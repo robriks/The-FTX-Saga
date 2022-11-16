@@ -91,13 +91,13 @@ Their collegial tie, now extending to the SEC, is suspected to have contributed 
 
 ##### Pictured: Record of SBF personally meeting SEC Chair Gensler for a letter of No-Action Relief
 ![image](./assets/relief.jpeg)
-##### More on No-Action Relief: https://www.investor.gov/introduction-investing/investing-basics/glossary/no-action-letters
+##### More on No-Action Relief: [Action-Relief](https://www.investor.gov/introduction-investing/investing-basics/glossary/no-action-letters)
 
 I will add here, though it looks very bad for the SEC and for Gary Gensler, I _personally_ do not believe this was an act of corruption. The SEC is notoriously incompetent when it comes to crypto as they have (imho) made some very badly informed public statements. Chances are Gary and the SEC honestly believed SBF to be legitimate, as did the rest of us. This may have looked like the most logical way forward from their perspective at the time. The SEC just didn't do due diligence, investigate for criminality, or otherwise audit/evaluate FTX the way they should have.
 
 Anyway, I'll limit speculation in this writeup. Back to facts. SBF's reputation in Washington was so robust that he was tapped as _THE main consultant_ for drafting the current foremost regulatory bill on crypto in the US: the DCCPA. 
 
-Here's a digital document of the bill: https://www.congress.gov/bill/117th-congress/senate-bill/4760/text
+Here's a digital document of the [bill](https://www.congress.gov/bill/117th-congress/senate-bill/4760/text)
 
 SBF was in talks with legislators on Capitol Hill, very close to the provisions of the bill. He personally pushed the bill in the industry and lobbied congresspeople on it, giving public testimony before congress just months ago. Part of his sway here can likely be attributed to the fact that SBF/FTX was the 2nd largest donor to the Biden campaign and other politicians on both sides of the aisle.
 
