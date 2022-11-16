@@ -109,7 +109,7 @@ The last bit of prefaced information you need to understand before I detail FTX'
 
 If you're not familiar with how (fungible/non-fungible) tokens can live on top of blockchain networks like Ethereum, I have a writeup that explains this in my free interactive Web3 tutorial: [HuskyCoin](https://huskycoin.vercel.app/about)
 
-(The HuskyCoin tokens I made are for education only. They are free and cannot be speculated on!)
+##### (The HuskyCoin tokens I made are for education only. They are free and cannot be speculated on!)
 
 But that's a minor component to the saga so you may come back and learn that another time if you prefer to keep reading. The basics of what you need to understand is this: Ethereum is a programmable blockchain that allows for tokens to be created, sent, received, staked, burned, bought, and sold (among other cool things) on the Ethereum network itself. Examples include stablecoins (pegged to the US dollar) such as $USDC, $USDT, $DAI as well as utility tokens such as $UNI, $LINK. 🤦‍♂️
 
