@@ -154,7 +154,7 @@ In theory that's not such a huge problem, provided
 3. Alameda does not ever trade using assets from either FTX's balance sheet or FTX's user deposits
 4. FTX's outstanding loans are not overwhelmingly collateralized by illiquid FTT holdings
 
-Whew, unfortunately these were not the case. But we are not there just yet, let me detail events in chronological order
+Whew, unfortunately these were not the case. But we are not there just yet, let me detail events in chronological order.
 
 ## Binance's role in catalyzing a bank run
 
@@ -162,7 +162,7 @@ Binance got wind of the Alameda Research position, as well as FTX's numerous out
 
 Hefty debts riding on a low-utility, low-liquidity token that are issued by the borrower themselves? 😔
 
-In light of this information made public by CoinDesk, the Binance CEO, CZ, publicly tweeted they would be selling their FTT allocation (Binance was an early backer of FTX) to the tune of $600 million. It doesn't take much sleuthing to realize the FTT market could not handle the unloading of such a large position without significant downside volatility. 📉📉📉
+In light of this information made public by CoinDesk, the Binance CEO, CZ, publicly tweeted they would be selling their FTT allocation to the tune of $600 million (Binance was an early backer of FTX). It doesn't take much sleuthing to realize the FTT market could not handle the unloading of such a large position without significant downside volatility. 📉📉📉
 
 ![image](./assets/cz.PNG)
 
