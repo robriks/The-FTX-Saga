@@ -162,7 +162,7 @@ Hefty debts riding on a low-utility, low-liquidity token that are issued by the 
 
 In light of this information made public by CoinDesk, the Binance CEO, CZ, publicly tweeted they would be selling their FTT allocation (Binance was an early backer of FTX) to the tune of $600 million. It doesn't take much sleuthing to realize the FTT market could not handle the unloading of such a large position without significant downside volatility. 📉📉📉
 
-![image](./assets/cz.png)
+![image](./assets/cz.PNG)
 
 Okay, so Binance will dump a metric shitton of $FTT and the token price will tank. What's the big deal? The market should be able to flush out leveraged positions just fine, right? In theory, so long as FTX isn't breaking laws and hasn't accumulated large amounts of debt owed to industry-wide players in the form of loans collateralized by FTT, they should be fine...
 
@@ -194,7 +194,7 @@ Meanwhile, rumors of SBF desperately scrambling to find funding anywhere he coul
 
 Binance sees the chaos they've instigated, now ballooning to a full blown bank run with users and businesses alike pulling funds out of FTX. According to a tweet FTX, they've stepped in and offered to potentially purchase FTX; essentially bailing them out. Note the very certain, grateful tone:
 
-![image](./assets/bailout.png)
+![image](./assets/bailout.PNG)
 
 Binance likely did not know the extent of FTX's losses (and definitely not their fraud, we're getting there!), because after they got one look at FTX books they immediately backed out and did not commit to the acquisition.
 
