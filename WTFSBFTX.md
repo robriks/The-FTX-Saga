@@ -1,7 +1,7 @@
 # 🤦‍♂️ What the fuck just happened with FTX? 🤦‍♂️
 ## The FTX saga told by a crypto-native who watched it all unfold on-chain in real time
 ##### (Including all the juicy details not reported by Reuters and NYT)
-by 📯 ~ Robriks / 👦🏻👦🏻.eth ~ 📯
+**by 📯 ~ Robriks / 👦🏻👦🏻.eth ~ 📯**
 
 ```
      W
