@@ -354,3 +354,5 @@ It's here to stay.
 
 ### Hope you enjoyed my tale.
 ##### -KweenBirb
+
+## Update: okay this is crazy but reportedly the blackhat actor was [SBF Himself](https://www.cnbc.com/2022/11/17/ftx-suggests-sam-bankman-fried-transferred-assets-to-bahamas-government-custody-after-bankruptcy-filing.html).
